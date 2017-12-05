@@ -1,7 +1,8 @@
 # Changelog
 
-## 0.10.1 (in progress)
+## 0.11.0 (in progress)
 
+* Localisation: text snippets can now be set in `locales.yml`
 * Fix print font defaults
 * Match EBM colours
 * Markdownify breadcrumbs
@@ -16,7 +17,10 @@
 * Add variable for default rule thickness
 * Add `.image-with-caption` class
 * Add language-selector menu for when translations exist
-* Minor bug and code-readability fixes
+* Improve `gulpfile` SVG optimisation for epubs
+* Set hyphenation to manual by default
+* Allow translation directories and language codes to differ
+* Bug fixes and code-readability improvements
 
 ## 0.10.0
 
