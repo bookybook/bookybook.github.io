@@ -4,4 +4,4 @@
 layout: min
 ---
 
-{% include redirect target="text" %}
+{% include redirect target="text/0-3-contents.html" %}

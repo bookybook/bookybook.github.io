@@ -5,9 +5,9 @@
 # UPDATE THESE SETTINGS ON SETUP
 # ------------------------------
 
-# The primary language used in this project. You can set the language for each book individually below at 'defaults'. 
-# To understand what language tags to use, read: http://www.w3.org/International/articles/language-tags/ 
-# For the registry of tags: http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry 
+# The primary language used in this project. You can set the language for each book individually below at 'defaults'.
+# To understand what language tags to use, read: http://www.w3.org/International/articles/language-tags/
+# For the registry of tags: http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
 # Useful lookup tool: http://r12a.github.io/apps/subtags/
 language: en
 
@@ -17,7 +17,7 @@ language: en
 # theme: your-theme-gem-name-here
 
 # Which edition are we creating? You can leave this as `default`.
-# This can be used to create different editions of a book using Liquid control-flow tags, 
+# This can be used to create different editions of a book using Liquid control-flow tags,
 # e.g. in includes, layouts and file-list
 edition: "default"
 #edition: ""
@@ -52,7 +52,7 @@ nav-source: nav
 # http://docs.mathjax.org/en/latest/font-support.html
 # This font can be overridden per page by adding mathjax-font: "" to page frontmatter YAML.
 # To use MathJax in PDF output, you must have PhantomJS installed: http://phantomjs.org
-mathjax-enabled: false
+mathjax-enabled: true
 mathjax-font: "Gyre-Pagella"
 
 # Documentation is built into the Electric Book template.
@@ -78,10 +78,10 @@ output: "web"
 # output: "lightning-source-colour"
 
 # You can switch between sets of images for different purposes.
-# For instance, small, colour images for epub and screen-pdf, 
+# For instance, small, colour images for epub and screen-pdf,
 # and high-res greyscale for print-pdf.
 # Set your default image set here. This refers to the `images`
-# directory in each book's directory, and then to any 
+# directory in each book's directory, and then to any
 # subdirectories you create per set. Default is images/web,
 # so that this works out of the box on GitHub Pages.
 # image-set: "images"
@@ -90,7 +90,7 @@ image-set: "images/web"
 # image-set: "images/print-pdf"
 # image-set: "images/screen-pdf"
 
-# Jekyll will ignore these files and folders. 
+# Jekyll will ignore these files and folders.
 # Useful for temporarily speeding up processing for particular files
 # Once your CSS is stable, exclude `css` here and keep it below under `keep_files`.
 # Include the file extension too. E.g. book/text/01.md
@@ -158,10 +158,10 @@ sass:
   sass_dir: _sass
   style: compressed
 
-# Set default values here for all documents/pages in this publication. 
+# Set default values here for all documents/pages in this publication.
 # (For technical details, see http://jekyllrb.com/docs/configuration/#front-matter-defaults).
 # Store only site configurations here, and book metadata (title, author, ISBNs) in _data/meta.yml
-defaults: 
+defaults:
   -
     scope: # Sets default page frontmatter for all files in this project (an empty string "" for path means all files).
       path: ""

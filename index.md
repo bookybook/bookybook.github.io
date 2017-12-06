@@ -11,7 +11,7 @@ With the Electric Book workflow, you store your books in plain text with great v
 
 {% include metadata %}
 {% if output-docs == true %}
-[Read the docs]({{ site.baseurl }}/docs)
+[Read the docs]({{ site.baseurl }}/book)
 {:.button}
 {% endif %}
 
