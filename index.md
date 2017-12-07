@@ -8,6 +8,10 @@ style: home
 Globally, the progress towards efficient, market-based policies that support liberalization and decarbonization of the electricity sector is unsatisfactory slow. Why is that? We believe the answer lies, at least partly, in a lack of understanding of electricity economics, markets, systems and policies. To help training current and prospective policy-makers in electricity economics, we have creates this “Open Electricity Economics Handbook”. The handbook is meant for practitioners such as policy-makers, regulators and their advisers and students of energy economics and public policy. It provides a comprehensive introduction to the field for self-study, and can be used as an encyclopedia by more experienced experts.
 
 
+
+
+
+
 .
 
 {% include metadata %}
