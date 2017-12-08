@@ -17,7 +17,6 @@ style: contents-page
   - [3.4 Short-term vs. long-term profitability](03.html#4-short-term-vs-long-term-profitability)  
 - [4. The price and value of electricity](04.html#the-price-and-value-of-electricity)
   - [4.1 Electricity price variability](04.html#1-electricity-price-variability)
-<<<<<<< HEAD
   - [4.2 A short-run model: merit-order dispatch](04.html#2-a-short-run-model-merit-order-dispatch)
   - [4.3 A quick detour: models in electricity economics](04.html#3-a-quick-detour-models-in-electricity-economics)
     - [4.3.1 The analytical framework](04.html#3-1-the-analytical-framework)
@@ -25,11 +24,5 @@ style: contents-page
   - [4.4 Another short run model: Unit Commitment](04.html#4-another-short-run-model-unit-commitment)
   - [4.5 Market value](04.html#5-market-value)
   - [4.6 Different price discovery mechanisms](04.html#6-different-price-discovery-mechanisms)
-=======
-  - [4.2 A short-run model: merit-order dispatch](04.html#4-2-a-short-run-model-merit-order-dispatch)
-  - [4.3 A quick detour: models in electricity economics](04.html#4-3-a-quick-detour-models-in-electricity-economics)
-  - [4.4 Another short run model: Unit Commitment](04.html#4-4-another-short-run-model-unit-Commitment)
-  - [4.5 Market value](04.html#4-5-market-value)
-  - [4.6 Different price discovery mechanisms](04.html#4-6-different-price-discovery-mechanisms)  
-  
->>>>>>> 1473f00522fe0e12be8ea422f65e15dc86dcc21c
+- [5. Optimal capacity mix and scarcity pricing](05.html#optimal-capacity-mix-and-scarcity-pricing)
+  - [5.1 The load duration curve](05.html#1-the-load-duration-curve)
