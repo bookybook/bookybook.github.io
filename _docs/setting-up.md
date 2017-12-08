@@ -134,9 +134,9 @@ You can also invent your own page styles, and use them in your custom CSS instea
 
 ### Set 'page number one'
 
-Many books have two 'page ones': 
+Many books have two 'page ones':
 
-1.	the half-title or title page and, 
+1.	the half-title or title page and,
 2.	if the prelims have roman-numeral page numbers, the first chapter.
 
 You should specify those pages so that Prince knows where to start numbering when creating PDFs.
