@@ -28,7 +28,7 @@ style: contents-page
   - [5.3 The impact of cost changes](05.html#3-the-impact-of-cost-changes)
   - [5.4 The impact of renewable energy](05.html#4-the-impact-of-renewable-energy)
   - [5.5 Scarcity or peak-load pricing model](05.html#5-scarcity-or-peak-load-pricing-model)
-- [6. The economics of renewable energy](06.html#the-economics-of-renewable-energy)
+### [6. The economics of renewable energy](06.html#the-economics-of-renewable-energy)
   - [6.1 The boom in wind and solar power](06.html#1-the-boom-in-wind-and-solar-power)
   - [6.2 Declining costs of wind and solar power](06.html#2-declining-costs-of-wind-and-solar-power)
   - [6.3 Market value of wind and solar energy](06.html#3-market-value-of-wind-and-solar-energy)
