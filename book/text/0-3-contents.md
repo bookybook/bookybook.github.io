@@ -26,3 +26,7 @@ style: contents-page
   - [4.6 Different price discovery mechanisms](04.html#6-different-price-discovery-mechanisms)
 - [5. Optimal capacity mix and scarcity pricing](05.html#optimal-capacity-mix-and-scarcity-pricing)
   - [5.1 The load duration curve](05.html#1-the-load-duration-curve)
+  - [5.2 The optimal thermal generation mix](05.html#2-the-optimal-thermal-generation-mix)
+  - [5.3 The impact of cost changes](05.html#3-the-impact-of-cost-changes)
+  - [5.4 The impact of renewable energy](05.html#4-the-impact-of-renewable-energy)
+  - [5.5 Scarcity or peak-load pricing model](05.html#5-scarcity-or-peak-load-pricing-model)
