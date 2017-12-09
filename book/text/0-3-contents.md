@@ -10,7 +10,7 @@ style: contents-page
   - [1.2 Physical setup of electric power systems](01.html#2-physical-setup-of-electric-power-systems)
   - [1.3 Market structure of electricity industry](01.html#3-market-structure-of-electricity-industry)
   - [1.4 Renewables in the electric power systems](01.html#4-renewables-in-the-electric-power-systems)
-### [3. The Cost of Electricity](03.html#the-cost-of-electricity)
+### [3. The cost of electricity](03.html#the-cost-of-electricity)
   - [3.1 Cost of generating electricity](03.html#1-cost-of-generating-electricity)
   - [3.2 Cost metric I: Levelized Cost](03.html#2-cost-metric-i-levelized-cost)
   - [3.3 Cost metric II: Screening Curves](03.html#3-cost-metric-ii-screening-curves)

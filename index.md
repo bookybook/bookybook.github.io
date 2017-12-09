@@ -15,12 +15,11 @@ To train current and prospective policy-makers in electricity economics, we have
 {:.button}
 {% endif %}
 
-For Contact, mail [info@open-electricity-economics.org](mailto:khanna@hertie-school.org).
+For contact, mail [info@open-electricity-economics.org](mailto:khanna@hertie-school.org).
 
 &nbsp;
 
 &nbsp;
-
 
 {:#support}
 
