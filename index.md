@@ -5,9 +5,8 @@ style: home
 
 # Open Electricity Economics  
 
-Globally, the progress towards efficient, market-based policies that support liberalization and decarbonization of the electricity sector is unsatisfactory slow. Why is that? We believe the answer lies, at least partly, in a lack of understanding of electricity economics, markets, systems and policies. 
+This “Open Electricity Economics Handbook” is an online resource meant for use by practitioners such as policy-makers, regulators and their advisers, as well as students of electricity economics and public policy. It provides a comprehensive introduction to the field of electricity economics for self-study, and can be used as an encyclopedia by more experienced experts. This pilot version of the handbook covers five topics on basics of electricity markets and economics. To know more about this initiative, refer to the OEE Project page or mail us at [info@open-electricity-economics.org](mailto:khanna@hertie-school.org).
 
-To train current and prospective policy-makers in electricity economics, we have creates the “Open Electricity Economics Handbook”. This online resource is meant for practitioners such as policy-makers, regulators and their advisers, as well as students of energy economics and public policy. It provides a comprehensive introduction to the field of energy economics for self-study, and can be used as an encyclopedia by more experienced experts.
 
 {% include metadata %}
 {% if output-docs == true %}
@@ -15,11 +14,6 @@ To train current and prospective policy-makers in electricity economics, we have
 {:.button}
 {% endif %}
 
-For contact, mail [info@open-electricity-economics.org](mailto:khanna@hertie-school.org).
-
-&nbsp;
-
-&nbsp;
 
 {:#support}
 
