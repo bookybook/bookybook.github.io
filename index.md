@@ -5,7 +5,7 @@ style: home
 
 # Open Electricity Economics  
 
-This “Open Electricity Economics Handbook” is an online resource meant for use by practitioners such as policy-makers, regulators and their advisers, as well as students of electricity economics and public policy. It provides a comprehensive introduction to the field of electricity economics for self-study, and can be used as an encyclopedia by more experienced experts. This pilot version of the handbook covers five topics on basics of electricity markets and economics. To know more about this initiative, refer to the OEE Project page or mail us at [info@open-electricity-economics.org](mailto:khanna@hertie-school.org).
+This *“Open Electricity Economics Handbook”* is an online resource meant for use by policy-makers, regulators and their advisers, as well as students of electricity economics and public policy. It provides a comprehensive introduction to the field of electricity economics for self-study and can be used as an encyclopedia by more experienced experts. This pilot of the handbook covers five topics on basics of electricity markets and economics. To know more about this initiative, refer to the OEE Project page or mail us at [info@open-electricity-economics.org](mailto:khanna@hertie-school.org).
 
 
 {% include metadata %}
@@ -14,6 +14,16 @@ This “Open Electricity Economics Handbook” is an online resource meant for u
 {:.button}
 {% endif %}
 
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+
+&nbsp;
 
 {:#support}
 
