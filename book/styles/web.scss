@@ -62,7 +62,7 @@ $color-text-secondary: #222222;
 $color-background: white;
 $color-light: #e0e0e0;
 $color-mid: #9c9c9c;
-$color-accent: #009E7F;
+$color-accent: #003366;
 $color-links: #5f738c;
 $color-buttons: $color-accent;
 $color-buttons-hover: darken( $color-buttons, 20% );
@@ -92,7 +92,7 @@ $hyphenate-lines: 1; // Maximum number of consecutive lines ending with hyphens
 $text-divider: ""; // Empty leaves space. \2022 is a bullet
 
 // Footer
-$footer-text-color: $color-text-main;
+$footer-text-color: $color-mid;
 $footer-background-color: $color-accent;
 $footer-border-color: $color-accent;
 
@@ -108,7 +108,7 @@ $nav-bar-close: "\00D7"; // &times; ×
 $nav-bar-children-prompt: "+";
 $nav-bar-children-prompt-hide: "\2212"; // \2212 is an actual minus sign
 $nav-bar-scrollbar: true;
-$nav-bar-width: 15em;
+$nav-bar-width: 30em;
 $nav-bar-fixed: true;
 $nav-bar-label-color: $color-light;
 $nav-bar-label-background-color: $masthead-background-color;
