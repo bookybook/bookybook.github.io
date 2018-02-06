@@ -89,7 +89,7 @@ output: "web"
 image-set: "images/web"
 # image-set: "images/print-pdf"
 # image-set: "images/screen-pdf"
-
+-
 # Jekyll will ignore these files and folders.
 # Useful for temporarily speeding up processing for particular files
 # Once your CSS is stable, exclude `css` here and keep it below under `keep_files`.
