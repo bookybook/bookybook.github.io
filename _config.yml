@@ -9,6 +9,7 @@
 # To understand what language tags to use, read: http://www.w3.org/International/articles/language-tags/
 # For the registry of tags: http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
 # Useful lookup tool: http://r12a.github.io/apps/subtags/
+
 language: en
 
 # Are you importing a gem-based theme? By default we do not.
@@ -64,6 +65,10 @@ collections:
   docs:
     output: false
 
+#gems:
+#  - jekyll-srcset  
+#CANNOT GET THIS TO EXECUTE
+
 # --------------------------------------------
 # CHANGE THESE SETTINGS ONLY IF/WHEN NECESSARY
 # --------------------------------------------
@@ -89,7 +94,6 @@ output: "web"
 image-set: "images/web"
 # image-set: "images/print-pdf"
 # image-set: "images/screen-pdf"
--
 # Jekyll will ignore these files and folders.
 # Useful for temporarily speeding up processing for particular files
 # Once your CSS is stable, exclude `css` here and keep it below under `keep_files`.
